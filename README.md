@@ -79,11 +79,3 @@ Other possible categories:
 - ...and more!
 
 ---
-
-##  Contact
-
-**Kahkashan Manzoor**  
-[Email](mailto:kahkashanmanzoor06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kahkashan-manzoor-663384287/) • [Kaggle](https://www.kaggle.com/kashishmanzoor)
-
-
-
