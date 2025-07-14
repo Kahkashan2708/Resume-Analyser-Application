@@ -74,7 +74,6 @@ Other possible categories:
 -  HR
 -  Java Developer
 -  Business Analyst
-- SAP Developer
 -  Python Developer
 - ...and more!
 
